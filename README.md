@@ -20,5 +20,5 @@
 <div> 
   <a href="https://www.instagram.com/bruno_figueiredo98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/bruno-figueiredo98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <h2>Conheça um pouco mais sobre Bruno Figueiredo Acessando meu <a href="https://dev-portfoliobjf.pantheonsite.io/"><strong>Portfólio</strong></a></h2>
 </div>
