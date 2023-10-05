@@ -13,6 +13,7 @@
   <img align="center" alt="BJF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BJF-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="BJF-Csharp" height="30" width="40" src="https://v5c2e8r4.stackpathcdn.com/wp-content/uploads/2014/09/mysql-logo.jpg">
+  <img align="center" alt="BJF-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
 </div>
   
   ##
