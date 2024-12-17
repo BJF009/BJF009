@@ -1,7 +1,7 @@
 ## Olá, sou o Bruno Figueiredo 👋
 
 <p> 👨‍💻 Desenvolvedor Frontend apaixonado por criar experiências incríveis na web. </p> 
-<p> 📚 Cursando o 7º período de Sistemas de Informação no Campus São João Evangelista.</p> 
+<p> 📚 Cursando o 8º período de Sistemas de Informação no Campus São João Evangelista.</p> 
 <p> ✨ Apaixonado por tecnologia, design e usabilidade.</p>
 
 
